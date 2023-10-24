@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'msmodel-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87432767E0454BFA9BC32CDFD722011D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E76884CBF5BE418B80597C0CD2936273 }}
